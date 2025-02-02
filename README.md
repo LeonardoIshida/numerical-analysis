@@ -23,6 +23,9 @@
 
 This repository contains Python code developed for two assignments in the Numerical Analysis course at ICMC-USP. Each assignment explores key concepts in numerical analysis, with practical implementations and analysis.
 
+## 🤝 Contributors
+- [Isaac H. R. Rosendo](https://github.com/IsaacHaRR) <br>
+
 ### Project 1: Linear Systems and Root Finding
 
 **Focus:**
